@@ -7,7 +7,7 @@ I'm Vedic Panda, a Systems Software Engineering Intern at HPE and a proud member
 - 🎓 Studying the art of building intelligent systems.
 - 💻 Full Stack Software Engineering Intern at McKesson in the past.
 - 🔭 Currently exploring the exciting world of machine learning, artificial intelligence, and robotics.
-- ♟️ Passionate chess player and always up for a challenging game.
+- ♟️ Passionate chess player and always up for a game.
 - ⚙️ Backend Systems and Firmware enthusiast.
 - 🌐 Check out some of my past work [here](https://github.com/DragonCoderz?tab=repositories)!
 
