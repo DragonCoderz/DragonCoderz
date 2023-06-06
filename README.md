@@ -24,6 +24,7 @@ Feel free to reach out for collaborations, coding discussions, or just to say hi
 
 📫 You can find me on:
 - 💼 LinkedIn: [Vedic Panda](https://www.linkedin.com/in/vedic-panda/)
+- 💌 Email: [vpanda6@gatech.edu](mailto:vpanda6@gatech.edu)
 - ♟️ Chess.com: [PenguinPacks](https://chess.com/member/PenguinPacks)
 
 🎉 Let's code, explore, and create amazing things together! ✨
